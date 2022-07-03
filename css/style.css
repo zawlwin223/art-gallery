@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@400;700;800;900&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.sec-header-part{
+    background-image: url(../images/desktop/image-hero.jpg);
+   
+    
+}
+.head-title{
+    top: 190px;
+    right: -165px;
+    mix-blend-mode: difference;
+    font-family: 'Big Shoulders Display', cursive;
+    
+}
+.head-title>h1{
+    font-size: 6rem;
+    font-weight:800 ;
+    line-height: 90px;
+}
+.third-child-part{
+    top: 180px;
+    left: -55px;
+}
+.header-btn>h3{
+    font-family: 'Big Shoulders Display', cursive;
+    letter-spacing: 4px;
+}
+.second-btn{
+    background-color: ;
+}
+.btn-group:hover .header-btn{
+    color: white !important;
+    background-color:#d5966c !important;
+    font-family: 'Big Shoulders Display', cursive;
+}
+.btn-group:hover .second-btn{
+    color: white !important;
+    background-color:black !important;
+   
+}
+.main-fist-part{
+    margin-left: 130px; 
+    margin-top: 100px;
+}
+.main-fist-part>h1{
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 4rem;
+    font-weight: 800;
+    line-height: 60px;
+}
+.main-fist-part>p{
+    font-size: 18px;
+    line-height: 30px;
+}
+.main-second-part>h1{
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 4rem;
+    font-weight: 1000;
+    line-height: 60px;
+}
+.main-second-part>p{
+    font-size: 18px;
+    line-height: 30px;
+}
+footer{
+    margin-top: 130px;
+}
+.foothead{
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 2rem;
+    font-weight: 1000;
+    margin-left: 110px;
+}
+footer p{
+    font-size: 18px;
+    line-height: 30px;
+}
+footer img{
+    width: 20px;
+    height: 20px;
+}
